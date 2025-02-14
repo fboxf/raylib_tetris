@@ -5,5 +5,10 @@ I recently gave myself the task of creating a tetris clone using the amazing Ray
 
 Feel free to poke around, edit, improve, say *tut tut and generally balk at the quality of this monstrosity.. as I'm new to many of the tools used and just proud of the fact I got it half way there.
 
-tetris.pdf contains the deets 
+# Points to note
+* Scoring system needs including
+* Some sort of level system
+* Game over/options screen/pause
+
+tetris.pdf contains current details
 :-)
