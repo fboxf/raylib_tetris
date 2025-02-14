@@ -6,6 +6,10 @@ I recently gave myself the task of creating a tetris clone using the amazing Ray
 Feel free to poke around, edit, improve, say *tut tut and generally balk at the quality of this monstrosity.. as I'm new to many of the tools used and just proud of the fact I got it half way there.
 
 # Points to note
+* download into a folder and run ./make
+  * Left Arrow, Right Arrow, Up Arrow to Change rotation
+  * Down Arrow not yet working
+* Tested on linux
 * Scoring system needs including
 * Some sort of level system
 * Game over/options screen/pause
